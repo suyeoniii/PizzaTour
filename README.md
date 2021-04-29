@@ -1,6 +1,5 @@
 # 🍕PizzaTour Website
-> 소상공인을 위한 재능기부 프로젝트
-2020-2 Web Team Project
+> 소상공인을 위한 재능기부 프로젝트(2020.11 ~ 2020.12)
 
 ![](header.png)
 
