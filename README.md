@@ -27,3 +27,6 @@
 - 관리자 페이지
 - 메뉴 CRUD
 - 쿠폰 적립 기능
+
+##### 시연영상
+https://drive.google.com/file/d/1mR3N9vqmd7PEoxVQ5auV_gU1tmQxn9wr/view?usp=sharing
